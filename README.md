@@ -41,3 +41,8 @@
 <!-- [twitter]: 
 [Instagram]: 
 [YouTube]:  -->
+
+
+
+#### Email
+* harshpadaliya1@gmail.com
